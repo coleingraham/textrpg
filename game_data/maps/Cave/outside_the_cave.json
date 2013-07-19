@@ -1,0 +1,17 @@
+// test map
+{
+    // name of map
+    "area" : "Dark Tunnle",
+    
+    // list of exits
+    "exits" : [
+        "north"
+    ],
+
+    "direction_descriptions" : {
+        "north" : "./game_data/maps/Cave/map.json"
+    },
+
+    "description" : 
+"You are in a field. There is a cave nearby that seems pretty dark."
+}

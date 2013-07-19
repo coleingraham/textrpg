@@ -1,7 +1,7 @@
 #ifndef TERMINALFORMATTING_H
 #define TERMINALFORMATTING_H
 
-#endif // TERMINALFORMATTING_H
+#include <iostream>
 #include <string>
 #include <map>
 
@@ -175,3 +175,5 @@ inline std::string formatString(std::string string)
 }
 
 }
+
+#endif // TERMINALFORMATTING_H

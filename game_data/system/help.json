@@ -1,0 +1,14 @@
+// valid commands
+{
+    // list of commands
+    "commands" : [
+        "<b>north</b> or <b>n</b>: move north",
+        "<b>south</b> or <b>s</b>: move south",
+        "<b>east</b> or <b>e</b>: move east",
+        "<b>west</b> or <b>w</b>: move west",
+        "<b>attack</b> [target]: attack",
+        "<b>look</b>: look around",
+        "<b>quit</b>: exit the game"
+    ]
+    
+}

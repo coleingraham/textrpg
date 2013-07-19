@@ -1,0 +1,21 @@
+// test map
+{
+    // name of map
+    "area" : "Dark Cave",
+    
+    // list of exits
+    "exits" : [
+        "east",
+        "south"
+    ],
+
+    "direction_descriptions" : {
+        "east" : "./game_data/maps/Cave/dark_tunnle.json",
+        "south" : "./game_data/maps/Cave/outside_the_cave.json"
+    },
+
+    "description" : 
+"You find <bg:white>yourself<bg:default> in a <txt:red><b>dark cave</b><txt:default>. It is <u>pretty</u> much like every other cave you've ever been in. There isn't much interesting about this particular room so you feel like you should <b><u>leave<default>.
+
+And here is an other paragraph."
+}
